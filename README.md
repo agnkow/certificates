@@ -4,8 +4,9 @@
 * **Natural Language Processing** 
 * **Introduction to self-driving cars** 
 * **Deep Learning** 
-* **Python 3 Tutorial course** (SoloLearn)
+* **Python 3 Tutorial** (SoloLearn)
 * **Statistics and R for the Life Sciences** (edX)
+* **SQL Fundamentals** (SoloLearn)
 * **Data Analysis: Take it to the MAX()** (edX)
 #
 
@@ -21,4 +22,6 @@
 
 ![certificate_6](./certificates/Certificate_edX__R.png)
 
-![certificate_7](./certificates/DelftX_EX101x_Certificate_edX__R.png)
+![certificate_7](./certificates/sql_sololearn.jpg)
+
+![certificate_8](./certificates/DelftX_EX101x_Certificate_edX__R.png)

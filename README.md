@@ -27,6 +27,8 @@
 
 ![certificate_6](./certificates/Certificate_edX__R.png)
 
+![certificate_9](./certificates/html_sololearn.jpg)
+
 ![certificate_7](./certificates/sql_sololearn.jpg)
 
 ![certificate_8](./certificates/DelftX_EX101x_Certificate_edX__R.png)

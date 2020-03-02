@@ -1,14 +1,19 @@
 # Certificates
 
+#### Python
 * **Time Series** 
 * **Natural Language Processing** 
 * **Introduction to self-driving cars** 
 * **Deep Learning** 
 * **Python 3 Tutorial** (SoloLearn)
+
+#### Inne
 * **Statistics and R for the Life Sciences** (edX)
+* **HTML Fundamentals** (SoloLearn)
 * **SQL Fundamentals** (SoloLearn)
 * **Data Analysis: Take it to the MAX()** (edX)
 #
+
 
 ![certificate_2](./certificates/DataWorkshop_5DaysChellange_day5.png)
 
@@ -25,3 +30,5 @@
 ![certificate_7](./certificates/sql_sololearn.jpg)
 
 ![certificate_8](./certificates/DelftX_EX101x_Certificate_edX__R.png)
+
+

@@ -9,6 +9,7 @@
 
 #### Inne
 * **Statistics and R for the Life Sciences** (edX)
+* **CSS Fundamentals** (SoloLearn)
 * **HTML Fundamentals** (SoloLearn)
 * **SQL Fundamentals** (SoloLearn)
 * **Data Analysis: Take it to the MAX()** (edX)
@@ -26,6 +27,8 @@
 ![certificate_1](./certificates/python_sololearn.png)
 
 ![certificate_6](./certificates/Certificate_edX__R.png)
+
+![certificate_10](./certificates/css_sololearn.jpg)
 
 ![certificate_9](./certificates/html_sololearn.jpg)
 
